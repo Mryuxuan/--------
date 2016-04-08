@@ -1,0 +1,60 @@
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginDialog.resources
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Employ.resources
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.JobInfo.resources
+C:\Documents and Settings\Administrator\桌面\招聘信息管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Documents and Settings\Administrator\桌面\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\桌面\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\招聘信息管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Administrator\桌面\招聘信息管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Administrator\桌面\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Employ.resources
+C:\Documents and Settings\Administrator\桌面\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.JobInfo.resources
+C:\Documents and Settings\Administrator\桌面\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginDialog.resources
+C:\Documents and Settings\Administrator\桌面\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ResumeForm.resources
+C:\Documents and Settings\Administrator\桌面\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TextForm.resources
+C:\Documents and Settings\Administrator\桌面\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\招聘信息管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\招聘信息管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\招聘信息管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Employ.resources
+D:\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.JobInfo.resources
+D:\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginDialog.resources
+D:\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MainForm.resources
+D:\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ResumeForm.resources
+D:\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TextForm.resources
+D:\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\招聘信息管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Administrator\Desktop\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Administrator\Desktop\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\second\c#\课后\招聘信息管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\second\c#\课后\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\second\c#\课后\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\second\c#\课后\招聘信息管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\second\c#\课后\招聘信息管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\second\c#\课后\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\second\c#\课后\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Employ.resources
+F:\second\c#\课后\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.JobInfo.resources
+F:\second\c#\课后\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.LoginDialog.resources
+F:\second\c#\课后\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MainForm.resources
+F:\second\c#\课后\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\second\c#\课后\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ResumeForm.resources
+F:\second\c#\课后\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.TextForm.resources
+F:\second\c#\课后\招聘信息管理系统\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
